@@ -5,4 +5,3 @@ GPS
 MapAndreas
 Streamer
 YSF
-Patience
